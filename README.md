@@ -1,2 +1,2 @@
 # hello-world
-Why do i have to do this 
+I am writing a little bit about myself
